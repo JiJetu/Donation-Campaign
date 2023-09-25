@@ -1,7 +1,11 @@
+import { Outlet } from "react-router-dom";
+import Nav from "../Components/Header/Nav/Nav";
+
 const MainLayout = () => {
     return (
-        <div>
-            <p>hello</p>
+        <div className="container mx-auto">
+            <Nav></Nav>
+            <Outlet></Outlet>
         </div>
     );
 };
