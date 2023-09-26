@@ -1,7 +1,7 @@
 import PropTypes from "prop-types"
 
 const DonationCard = ({ donationCard }) => {
-    const { id, image, category, title, card_bg, category_bg, text_color } = donationCard || {};
+    const {image, category, title, card_bg, category_bg, text_color } = donationCard || {};
     return (
         <div style={{backgroundColor: card_bg}} className="h-[200px] w-[630px] flex items-center gap-6">
             <img className="w-[220px] h-full" src={image} alt={title} />
