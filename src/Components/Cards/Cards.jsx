@@ -1,10 +1,13 @@
 import PropTypes from 'prop-types'
 import Card from './Card';
-import { useLoaderData } from 'react-router-dom';
 
-const Cards = ({cards}) => {
-    const searchCard = useLoaderData();
-    console.log(searchCard)
+
+const Cards = ({ cards }) => {
+
+    console.log(cards)
+
+    
+
     return (
         <div className=" mt-4 md:my-24 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {
@@ -15,7 +18,7 @@ const Cards = ({cards}) => {
 };
 
 Cards.propTypes = {
-    cards: PropTypes.array.isRequired
+    cards: PropTypes.array,
 }
 
 export default Cards;

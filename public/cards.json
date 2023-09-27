@@ -6,7 +6,8 @@
       "title": "Clean water for children",
       "card_bg": "#0052FF26",
       "category_bg": "#0052FF33",
-      "text_color": "#0052FF"
+      "text_color": "#0052FF",
+      "description": "Health is a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity. It encompasses various aspects of maintaining and improving one's physical and mental condition through proper nutrition, exercise, medical care, and healthy lifestyle choices."
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "title": "Good education",
       "card_bg": "#FF443C26",
       "category_bg": "#FF443320",
-      "text_color": "#FF444A"
+      "text_color": "#FF444A",
+      "description": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It plays a crucial role in personal development, societal progress, and economic growth. Education can take place in schools, universities, online platforms, and many other settings."
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "title": "Used Clothing Drive",
       "card_bg": "#79C23F26",
       "category_bg": "#79C23333",
-      "text_color": "#79C23F"
+      "text_color": "#79C23F",
+      "description": "Clothing refers to items worn on the body for protection, comfort, modesty, and style. It includes a wide range of apparel, such as shirts, pants, dresses, shoes, and accessories, designed for different occasions, climates, and cultural preferences. Clothing is an essential aspect of human culture and self-expression."
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "title": "Better Food for Everyone",
       "card_bg": "#F8714726",
       "category_bg": "#F8714751",
-      "text_color": "#F87147"
+      "text_color": "#F87147",
+      "description": "Food is any substance consumed to provide nourishment and energy for the body. It comes in various forms, including fruits, vegetables, grains, proteins, and dairy products. Food can be prepared and enjoyed in countless ways and plays a central role in cultural traditions, culinary arts, and nutrition."
     },
     {
       "id": 5,
@@ -42,7 +46,8 @@
       "title": "Better Food for Everyone",
       "card_bg": "#F8714726",
       "category_bg": "#F8714751",
-      "text_color": "#F87147"
+      "text_color": "#F87147",
+      "description": "Food is any substance consumed to provide nourishment and energy for the body. It comes in various forms, including fruits, vegetables, grains, proteins, and dairy products. Food can be prepared and enjoyed in countless ways and plays a central role in cultural traditions, culinary arts, and nutrition."
     },
     {
       "id": 6,
@@ -51,7 +56,8 @@
       "title": "Used Clothing Drive",
       "card_bg": "#79C23F26",
       "category_bg": "#79C23333",
-      "text_color": "#79C23F"
+      "text_color": "#79C23F",
+      "description": "Clothing refers to items worn on the body for protection, comfort, modesty, and style. It includes a wide range of apparel, such as shirts, pants, dresses, shoes, and accessories, designed for different occasions, climates, and cultural preferences. Clothing is an essential aspect of human culture and self-expression."
     },
     {
       "id": 7,
@@ -60,7 +66,8 @@
       "title": "Good education",
       "card_bg": "#FF443C26",
       "category_bg": "#FF443320",
-      "text_color": "#FF444A"
+      "text_color": "#FF444A",
+      "description": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It plays a crucial role in personal development, societal progress, and economic growth. Education can take place in schools, universities, online platforms, and many other settings."
     },
     {
       "id": 8,
@@ -69,7 +76,8 @@
       "title": "Clean water for children",
       "card_bg": "#0052FF26",
       "category_bg": "#0052FF33",
-      "text_color": "#0052FF"
+      "text_color": "#0052FF",
+      "description": "Health is a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity. It encompasses various aspects of maintaining and improving one's physical and mental condition through proper nutrition, exercise, medical care, and healthy lifestyle choices."
     },
     {
       "id": 9,
@@ -78,7 +86,8 @@
       "title": "Clean water for children",
       "card_bg": "#0052FF26",
       "category_bg": "#0052FF33",
-      "text_color": "#0052FF"
+      "text_color": "#0052FF",
+      "description": "Health is a state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity. It encompasses various aspects of maintaining and improving one's physical and mental condition through proper nutrition, exercise, medical care, and healthy lifestyle choices."
     },
     {
       "id": 10,
@@ -87,7 +96,8 @@
       "title": "Good education",
       "card_bg": "#FF443C26",
       "category_bg": "#FF443320",
-      "text_color": "#FF444A"
+      "text_color": "#FF444A",
+      "description": "Education is the process of acquiring knowledge, skills, values, and attitudes through various formal and informal means. It plays a crucial role in personal development, societal progress, and economic growth. Education can take place in schools, universities, online platforms, and many other settings."
     },
     {
       "id": 11,
@@ -96,7 +106,8 @@
       "title": "Used Clothing Drive",
       "card_bg": "#79C23F26",
       "category_bg": "#79C23333",
-      "text_color": "#79C23F"
+      "text_color": "#79C23F",
+      "description": "Clothing refers to items worn on the body for protection, comfort, modesty, and style. It includes a wide range of apparel, such as shirts, pants, dresses, shoes, and accessories, designed for different occasions, climates, and cultural preferences. Clothing is an essential aspect of human culture and self-expression."
     },
     {
       "id": 12,
@@ -105,7 +116,8 @@
       "title": "Better Food for Everyone",
       "card_bg": "#F8714726",
       "category_bg": "#F8714751",
-      "text_color": "#F87147"
+      "text_color": "#F87147",
+      "description": "Food is any substance consumed to provide nourishment and energy for the body. It comes in various forms, including fruits, vegetables, grains, proteins, and dairy products. Food can be prepared and enjoyed in countless ways and plays a central role in cultural traditions, culinary arts, and nutrition."
     }
   ]
   

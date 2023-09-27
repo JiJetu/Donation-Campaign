@@ -2,7 +2,7 @@ import PropTypes from 'prop-types'
 import toast, { Toaster } from 'react-hot-toast';
 
 const CardDetailsDesign = ({ cardDetails }) => {
-    const { id, image, title, text_color } = cardDetails || {};
+    const { id, image, title, text_color, description} = cardDetails || {};
     // console.log(cardDetails);
 
     const handleAddToDonation = () => {
@@ -45,7 +45,7 @@ const CardDetailsDesign = ({ cardDetails }) => {
             </div>
             <div className='mt-14'>
                 <h3 className='font-bold text-3xl md:text-5xl'>{title}</h3>
-                <p className='mt-6 mb-28 text-[#0B0B0BB2]'>There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.</p>
+                <p className='mt-6 mb-28 text-base text-[#0B0B0BB2]'>{description}</p>
             </div>
         </div>
     );
