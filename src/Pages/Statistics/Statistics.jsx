@@ -42,7 +42,6 @@ const Statistics = () => {
     const donationDone = parseFloat(((donationItem.length / cards.length) * 100).toFixed(2));
     const totalDonation = parseFloat((100 - donationDone).toFixed(2));
 
-    console.log(donationDone);
 
     const data = [
         { name: 'Your Donation', value: donationDone },
