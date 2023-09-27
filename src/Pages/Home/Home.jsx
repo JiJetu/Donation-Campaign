@@ -6,7 +6,7 @@ import { useState } from "react";
 const Home = () => {
     const cards = useLoaderData();
 
-    const [filteredCards, setFilteredCard] = useState([]);
+    const [filteredCards, setFilteredCard] = useState(cards);
 
     const handleSearch = (search) => {
         if (search) {
